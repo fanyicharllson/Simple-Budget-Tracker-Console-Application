@@ -1,0 +1,144 @@
+{
+    "users": [
+        {
+            "user_id": "1",
+            "username": "john_doe",
+            "password": "01",
+            "User budget Income": 2000,
+            "transactions": [
+                {
+                    "description": "Housing",
+                    "amount": 1000000,
+                    "date": "23/10/2024",
+                    "category": "House"
+                }
+            ]
+        },
+        {
+            "username": "peter",
+            "userId": "02",
+            "password": "@#",
+            "User budget Income": 1000000,
+            "transactions": [
+                {
+                    "description": "Types of Fishes",
+                    "amount": 1000,
+                    "date": "3/10/2024",
+                    "category": "Fish"
+                }
+            ]
+        },
+        {
+            "username": "Mike",
+            "userId": "03",
+            "password": "ke",
+            "User budget Income": 1000,
+            "transactions": [
+                {
+                    "description": "Play",
+                    "amount": 200,
+                    "date": "12/10/2024",
+                    "category": "football"
+                }
+            ]
+        },
+        {
+            "username": "micheal",
+            "userId": "04",
+            "password": "001",
+            "User budget Income": 1000000,
+            "transactions": [
+                {
+                    "description": "Housing",
+                    "amount": 100,
+                    "date": "06/08/2025",
+                    "category": "House Rent"
+                }
+            ]
+        },
+        {
+            "username": "Mumia",
+            "userId": "12",
+            "password": "m09",
+            "User budget Income": 1000000,
+            "transactions": [
+                {
+                    "description": "Selling",
+                    "amount": 10000,
+                    "date": "24/10/2024",
+                    "category": "Pork"
+                }
+            ]
+        },
+        {
+            "username": "oliver",
+            "userId": "05",
+            "password": "oliv",
+            "User budget Income": 0,
+            "transactions": [
+                {
+                    "description": "Hotel",
+                    "amount": 5000,
+                    "date": "30/10/2024",
+                    "category": "Rentage"
+                },
+                {
+                    "description": "WWE",
+                    "amount": 200,
+                    "date": "31/10/2024",
+                    "category": "fight"
+                },
+                {
+                    "description": "Play",
+                    "amount": 300,
+                    "date": "31/10/2024",
+                    "category": "fight"
+                },
+                {
+                    "description": "Housing",
+                    "amount": 3000,
+                    "date": "23/10/2024",
+                    "category": "Rent"
+                },
+                {
+                    "description": "farming",
+                    "amount": 300,
+                    "date": "23/10/2024",
+                    "category": "corn"
+                },
+                {
+                    "description": "Cook",
+                    "amount": 1000,
+                    "date": "23/9/2024",
+                    "category": "fish"
+                },
+                {
+                    "description": "software",
+                    "amount": 200,
+                    "date": "30/10/2024",
+                    "category": "FE"
+                }
+            ]
+        },
+        {
+            "username": "sonia",
+            "userId": "23",
+            "password": "so",
+            "User budget Income": 0.0,
+            "transactions": [
+                {
+                    "description": "Marketing",
+                    "amount": 10000,
+                    "date": "25/01/2025",
+                    "category": "pork"
+                },
+                {
+                    "description": "Driving",
+                    "amount": 5000,
+                    "date": "7/11/2026",
+                    "category": "Roys"
+                }
+            ]
+        }
+    ]
+}
